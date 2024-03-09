@@ -1,6 +1,6 @@
 # DESAFIO TARGET
 
-## Opção de códigos utilizando apenas js com entradas sendo inseridas diretamente no código.
+## Opção de códigos utilizando apenas JavaScript com entradas sendo inseridas diretamente no código.
 ## Na pasta apenas_js
 ### Questão 2
 ```
