@@ -1,4 +1,4 @@
-stringInverter = (string) => {
+InversorDeStrings = (string) => {
     let temp = "";
     for (let i = string.length - 1; i >= 0; i--) {
         temp += string[i];
@@ -8,4 +8,4 @@ stringInverter = (string) => {
 }
 stringteste = "pneumoultramicroscopicossilicovulcanoconiótico"
 console.log(stringteste);
-console.log(stringInverter(stringteste));
+console.log(InversorDeStrings(stringteste));
