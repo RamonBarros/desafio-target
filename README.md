@@ -1,20 +1,30 @@
-# desafio-target
+# DESAFIO TARGET
 
 ## Opção de códigos utilizando apenas js com entradas sendo inseridas diretamente no código.
+## Na pasta apenas_js
+### Questão 2
+```
+node questao2.js
+```
+### Questão 5
+```
+node questao5.js
+```
 
-## Opção de códigos utilizando Vue js para criar interface para interagir com os algoritmos.
+## Opção de códigos utilizando Vue js para criar interface gráfica para interagir com os algoritmos.
+## Na pasta com_vue
 
-## Project setup
+### Instalar Dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Dar build
 ```
 npm run build
 ```
