@@ -1,5 +1,9 @@
 # desafio-target
 
+## Opção de códigos utilizando apenas js com entradas sendo inseridas diretamente no código.
+
+## Opção de códigos utilizando Vue js para criar interface para interagir com os algoritmos.
+
 ## Project setup
 ```
 npm install
